@@ -1,5 +1,7 @@
 # React Web Component
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/react-webcomponent.svg)](https://greenkeeper.io/)
+
 This project aims to bridge the connection between a React Component and a CustomElement.
 The strategy the library takes is to create a model that defines how the DOM is translated into React props.
 
